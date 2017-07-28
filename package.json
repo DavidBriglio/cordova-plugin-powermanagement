@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-powermanagement",
+  "version": "1.0.0",
+  "description": "Cordova power management plugin.",
+  "cordova": {
+    "id": "cordova-plugin-powermanagement",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidBriglio/cordova-plugin-powermanagement"
+  },
+  "keywords": [
+    "cordova",
+    "android",
+    "power",
+    "management",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "David Briglio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidBriglio/cordova-plugin-powermanagement/issues"
+  },
+  "homepage": "https://github.com/DavidBriglio/cordova-plugin-powermanagement"
+}
